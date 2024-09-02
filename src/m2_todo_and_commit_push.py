@@ -18,10 +18,15 @@ print("Hello, World")
 # TODO: 1.
 #   (Yes, that means for YOU to DO things per these instructions:)
 #  _
-#   Run this module by right clicking anywhere in this window
-#   and selecting
-#        Run 'name of file'
+#   Run this module by pressing the "Play" button --
+#       the green, rightward-pointing triangle on the toolbar
+#       that is above and to the right, making sure that
+#       the option to its left is set to   "Current File".
+#  -
 #   Or, use the Windows keyboard shortcut:  Control + Shift + Function-F10.
+#   Or, right click anywhere in this window and then select
+#            Run 'name of file'
+#       (i.e.  Run 'm2_todo_and_commit_p...')
 #  _
 #   After running, find the Run window and confirm that
 #        Hello, World
@@ -85,8 +90,11 @@ print("Hello, World")
 #  _
 #   COMMIT and PUSH your work by:
 #     1. Select   Git      from the menu bar (above).
+#          Or, right-click on the project in the Project window
+#          and select   Git  from the pull-down menu that appears.
 #     2. Choose   Commit...   from the pull-down menu that appears.
-#     3a. In the   Commit to master   window that pops up:
+#     3a. In the   Commit-and-Push     sub-window that pops up
+#         (the one in which you can type):
 #           - Type a short message in the box where you can type,
 #                e.g. type:    Done.
 #  _
@@ -94,7 +102,7 @@ print("Hello, World")
 #           when you work with teammates later in the course). Subsequent
 #           commits will auto-apply whatever message you use this time.
 #  _
-#     3b: In that same   Commit to master   window that pops up:
+#     3b: In that same   Commit-and-Push   sub-window in which you typed:
 #           - Press the   Commit and Push...   button.
 #  _
 #   COMMIT adds the changed work to the version control system on your COMPUTER.
