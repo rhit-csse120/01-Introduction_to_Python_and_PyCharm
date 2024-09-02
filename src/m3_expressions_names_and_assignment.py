@@ -8,7 +8,7 @@ print(answer * 100)
 #   it does the following with that code:
 #  _
 #     1. It runs line 1, that is, it:
-#          a. Evaluates (runs, computes) 2 raised to the 5th power,
+#          a. Evaluates (aka runs, computes) 2 raised to the 5th power,
 #             yielding the object that is the integer 32.
 #          b. Makes the name   answer   refer to that object.
 #  _
@@ -48,7 +48,7 @@ print(answer * 100)
 #   To access things defined in an imported module, we use the DOT notation,
 #   like this:
 #       math.sin
-#   is how we refer to the sine function defined in the imported  math  module.
+#   to refer to the sine function defined in the imported  math  module.
 #  _
 #   After putting your  import math  statement at the beginning of this module,
 #   and keeping in mind how we use the DOT notation to refer to things defined
@@ -108,8 +108,11 @@ print(answer * 100)
 #  _
 #   Then COMMIT-and-PUSH your work as before:
 #     1. Select    Git     from the menu bar (above).
+#          Or, right-click on the project in the Project window
+#          and select   Git  from the pull-down menu that appears.
 #     2. Choose   Commit...   from the pull-down menu that appears.
-#     3. In the   "Commit to master"   window that pops up,
+#     3. In the   "Commit"   sub-window that pops up
+#        (the one in which you can type),
 #        press the   "Commit and Push..."   button.
 #            Note: If it asks you to "Specify commit message", do so
 #                  using   Done   or something like that for the message.
