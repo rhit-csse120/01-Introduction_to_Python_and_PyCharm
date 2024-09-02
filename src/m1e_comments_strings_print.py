@@ -4,9 +4,9 @@
 #   what will get printed (i.e., displayed) when the code runs.
 #
 #   Then run this module by pressing the "Play" button --
-#       the green, rightward-pointing triangle on the toolbar
-#       that is above and to the right, making sure that
-#       the option to its left is set to   "Current File".
+#   the green, rightward-pointing triangle on the toolbar
+#   that is above and to the right, making sure that
+#   the option to its left is set to   "Current File".
 #
 #       Or, right click anywhere in this window and then select
 #            Run 'name of file'
