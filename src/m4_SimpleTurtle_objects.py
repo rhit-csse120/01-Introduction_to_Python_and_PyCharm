@@ -12,19 +12,22 @@ Also:
 Authors: David Mutchler, Rachel Krohn, Dave Fisher, Shawn Bohner, Sriram Mohan,
          Amanda Stouder, Vibha Alangar, Mark Hays, Dave Henthorn, Matt Boutell,
          Scott McClellan, Yiji Zhang, Mohammed Noureddine, Steve Chenoweth,
+         Claude Anderson, Michael Wollowski, Chandan Rupakheti,
          Derek Whitley, Curt Clifton, Valerie Galluzzi, their colleagues and
          PUT_YOUR_NAME_HERE.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+
 """
 Academic Integrity: I got help on this module from:
          PUT_HERE_THE_NAMES_OF_PEOPLE_WHO_HELPED_YOU_ON_THIS_MODULE_(IF_ANY).
 """  # TODO: If you got help from anyone on this module, list their names here.
+
 ###############################################################################
 # TODO: 1.
 #   Yes, that means for YOU to DO things per the following instructions:
 #  _
 #   On Line 16 above, replace   PUT_YOUR_NAME_HERE   with your OWN name.
-#   Also note Line 20, where you give credit to those (if any) who helped you
+#   Also note Line 21, where you give credit to those (if any) who helped you
 #   in working on this module.`
 #  _
 #   BTW, the top block of text above forms a multiple-line string that is
@@ -178,7 +181,7 @@ natasha.go_to(rg.Point(-100, 200))
 # TODO: 7.
 #   If you got help on this module, put the name of the person(s) who helped
 #   you in the Academic Integrity section near the top of this module
-#   (on line 20).
+#   (on line 21).
 ###############################################################################
 
 ###############################################################################
