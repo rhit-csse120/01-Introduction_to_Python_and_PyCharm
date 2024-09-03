@@ -9,16 +9,23 @@ Concepts include:
 Also:
   -- ASSIGNING a VALUE to a NAME (aka VARIABLE).
 
-Authors: David Mutchler, Yiji Zhang, Mark Hays, Derek Whitley, Vibha Alangar,
-         Matt Boutell, Dave Fisher, Sriram Mohan, Mohammed Noureddine,
-         Amanda Stouder, Curt Clifton, Valerie Galluzzi, their colleagues and
+Authors: David Mutchler, Rachel Krohn, Dave Fisher, Shawn Bohner, Sriram Mohan,
+         Amanda Stouder, Vibha Alangar, Mark Hays, Dave Henthorn, Matt Boutell,
+         Scott McClellan, Yiji Zhang, Mohammed Noureddine, Steve Chenoweth,
+         Derek Whitley, Curt Clifton, Valerie Galluzzi, their colleagues and
          PUT_YOUR_NAME_HERE.
+"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 """
+Academic Integrity: I got help on this module from:
+         PUT_HERE_THE_NAMES_OF_PEOPLE_WHO_HELPED_YOU_ON_THIS_MODULE_(IF_ANY).
+"""  # TODO: If you got help from anyone on this module, list their names here.
 ###############################################################################
 # TODO: 1.
 #   Yes, that means for YOU to DO things per the following instructions:
 #  _
-#   On Line 15 above, replace   PUT_YOUR_NAME_HERE   with your OWN name.
+#   On Line 16 above, replace   PUT_YOUR_NAME_HERE   with your OWN name.
+#   Also note Line 20, where you give credit to those (if any) who helped you
+#   in working on this module.`
 #  _
 #   BTW, the top block of text above forms a multiple-line string that is
 #   called a DOC-STRING.  It documents what this module does, in a way that
@@ -29,23 +36,6 @@ import rosegraphics as rg
 
 ###############################################################################
 # TODO: 2.
-#   Allow this module to use the  rosegraphics.py  module by marking the
-#     src
-#   folder in this project as a "Sources Root", as follows:
-#  _
-#     In the Project window (to the left), right click on the   src   folder,
-#     then select   Mark Directory As  ~  Sources Root.
-#  _
-#   You will see that  rosegraphics  in the  import  statement above (line 28)
-#   is no longer marked as an error.  You will do this "Mark Directory As" step
-#   in all projects that use rosegraphics, so get used to it. :)
-#  _
-#   Once you have done the above, change this _TODO_ to DONE
-#   and  ** continue to the next _TODO_ (below). **
-###############################################################################
-
-###############################################################################
-# TODO: 3.
 #   Run this module.  A window will pop up and Turtle objects will move around.
 #   After the Turtles stop moving,
 #      ** click anywhere in the window to close the window **.
@@ -186,13 +176,23 @@ natasha.go_to(rg.Point(-100, 200))
 
 ###############################################################################
 # TODO: 7.
+#   If you got help on this module, put the name of the person(s) who helped
+#   you in the Academic Integrity section near the top of this module
+#   (on line 20).
+###############################################################################
+
+###############################################################################
+# TODO: 8.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #   Run one more time to be sure that all is still OK.
 #  _
 #   Then COMMIT-and-PUSH your work as before:
 #     1. Select    Git     from the menu bar (above).
+#          Or, right-click on the project in the Project window
+#          and select   Git  from the pull-down menu that appears.
 #     2. Choose   Commit...   from the pull-down menu that appears.
-#     3. In the   "Commit to master"   window that pops up,
+#     3. In the   "Commit and Push"   sub-window that pops up
+#        (the one in which you can type),
 #        press the   "Commit and Push..."   button.
 #            Note: If it asks you to "Specify commit message", do so
 #                  using   Done   or something like that for the message.
