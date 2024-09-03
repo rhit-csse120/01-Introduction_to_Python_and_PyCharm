@@ -111,7 +111,7 @@ print(answer * 100)
 #          Or, right-click on the project in the Project window
 #          and select   Git  from the pull-down menu that appears.
 #     2. Choose   Commit...   from the pull-down menu that appears.
-#     3. In the   "Commit"   sub-window that pops up
+#     3. In the   "Commit and Push"   sub-window that pops up
 #        (the one in which you can type),
 #        press the   "Commit and Push..."   button.
 #            Note: If it asks you to "Specify commit message", do so
