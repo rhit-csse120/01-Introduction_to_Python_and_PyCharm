@@ -45,5 +45,3 @@ Academic Integrity: I got help on this module from:
 #  that prints "Hi" 1,000 times on a single (long) line.
 #  Also, experiment with the "Wrap Text" and "Scroll to End" buttons.
 ################################################################################
-
-print("Hi" * 1000)
