@@ -50,7 +50,7 @@ def ugly():
     print("The BLACK formatter will fix them when you run the code."
           )
     print(    "It will also adjust line breaks in sensible ways.")
-    print("One", "Two", "Three, "This is a long line...............................................")
+    print("One", "Two", "Three", "This is a long line.....................................")
 
     print(1+3*5)
 
