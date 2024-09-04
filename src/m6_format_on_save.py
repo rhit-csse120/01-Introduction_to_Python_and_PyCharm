@@ -16,7 +16,6 @@ Academic Integrity: I got help on this module from:
          PUT_HERE_THE_NAMES_OF_PEOPLE_WHO_HELPED_YOU_ON_THIS_MODULE_(IF_ANY).
 """  # TODO: If you got help from anyone on this module, list their names here.
 
-
 ###############################################################################
 # TODO: 2.
 #  WITH YOUR INSTRUCTOR'S HELP, enable the BLACK formatter, as follows:
@@ -37,24 +36,33 @@ Academic Integrity: I got help on this module from:
 #          then select   Black   in the window to the right.
 #     7. Check the   "On save"   box.
 #  _
-#  Read the code below briefly, then test that Black works by running this file
-#  and confirming that it autoformats.
+#  Read the code below briefly, and make some obvious formatting error,
+#  e.g. adding extra blank lines.  Then test that Black works by
+#  running this file and confirming that it autoformats.
 #  Make a few more obvious formatting errors and run again to be sure all is OK.
 ################################################################################
 
 
 
 
-
-
 def ugly():
     print("This has errors that violate"+ " the PEP 8 coding standards")
-    print("The BLACK formatter will fix them when you run the code.")
-    print("It will also adjust line breaks in sensible ways.")
+    print("The BLACK formatter will fix them when you run the code."
+          )
+    print(    "It will also adjust line breaks in sensible ways.")
+    print("One", "Two", "Three, "This is a long line...............................................")
+
     print(1+3*5)
 
+
+
+
 ugly()
+
+
+
 
 ###############################################################################
 # TODO: 3.  Commit-and-push in the usual way.
 ###############################################################################
+
