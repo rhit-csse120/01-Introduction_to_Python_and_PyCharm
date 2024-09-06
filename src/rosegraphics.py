@@ -48,7 +48,6 @@ from tkinter import font as tkinter_font
 import time
 import turtle
 
-
 # ----------------------------------------------------------------------
 # All the windows that are constructed during a run share the single
 #    _master_Tk   (a tkinter.Tk object)
