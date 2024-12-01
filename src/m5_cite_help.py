@@ -4,7 +4,7 @@ It lets you practice citing help as part of Academic Integrity.
 
 In this course, when you get help on a module from a person(s),
 you must CITE the help that you received by listing their names
-on the relevant line below (line XXX).  Note that:
+on the relevant line below (line 26).  Note that:
   -- It is perfectly OK (indeed, expected!) for you to get help
        from people in working on the modules in this course!
        Conversations are what create a DEEP understanding of the material!
