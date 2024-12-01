@@ -8,7 +8,7 @@ on the relevant line below (line XXX).  Note that:
   -- It is perfectly OK (indeed, expected!) for you to get help
        from people in working on the modules in this course!
        Conversations are what create a DEEP understanding of the material!
-  -- For simplicity, cite any help you get from your another student,
+  -- For simplicity, cite any help you get from another student,
        a course assistant, your instructor, your grandmother -- whatever!
        If in doubt, cite the help.
   -- Your grade is NEVER reduced by citing help.
