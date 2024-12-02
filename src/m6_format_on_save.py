@@ -23,14 +23,16 @@ Academic Integrity: I got help on this module from:
 #     2. Click on the   Project   item in the leftmost window,
 #          then select   Project Interpreter  in the window to the right.
 #     3. Click the little  +  sign to bring up a window to add Packages.
-#     4. Type   Black   in the place to specify the package to add,
+#     4. Type
+#            Black
+#          in the place to specify the package to add,
 #          then press the   Install Package   button.
 #          (Leave the "Install to User's ..." checkbox UN-checked
 #          unless permission-problems force you to check it.)
 #     5. Also install the following if you have not already installed them:
-#          pygame
-#          pillow
-#          paho-mqtt
+#            pygame
+#            pillow
+#            paho-mqtt
 #     5. Close the window when the installs are done.
 #     6. Click on the   Tools   item in the leftmost window,
 #          then select   Black   in the window to the right.
@@ -52,7 +54,7 @@ def ugly():
     print(    "It will also adjust line breaks in sensible ways.")
     print("One", "Two", "Three", "This is a long line.....................................")
 
-    print(1+3*5)
+    print(1+3*    5)
 
 
 
