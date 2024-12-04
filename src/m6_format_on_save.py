@@ -21,7 +21,7 @@ Academic Integrity: I got help on this module from:
 #  WITH YOUR INSTRUCTOR'S HELP, enable the BLACK formatter, as follows:
 #     1. File ~ Settings
 #     2. Click on the   Project   item in the leftmost window,
-#          then select   Project Interpreter  in the window to the right.
+#          then select   Python Interpreter  in the window to the right.
 #     3. Click the little  +  sign to bring up a window to add Packages.
 #     4. Type
 #            Black
