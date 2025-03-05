@@ -40,7 +40,7 @@ Academic Integrity: I got help on this module from:
 #  _
 #  Read the code below briefly, and make some obvious formatting error,
 #  e.g. adding extra blank lines.  Then test that Black works by
-#  running this file and confirming that it auto-formats.
+#  running this file and confirming that it autoformats.
 #  Make a few more obvious formatting errors and run again to be sure all is OK.
 ################################################################################
 
