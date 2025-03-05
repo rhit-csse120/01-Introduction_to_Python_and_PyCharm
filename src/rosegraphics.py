@@ -2021,7 +2021,6 @@ class SimpleTurtle:
         pass
 
     def _update_real_turtle(self):
-        print(self.pen.color)
         self._turtle.pencolor(self.pen.color)
         self._turtle.pensize(self.pen.thickness)
         self._turtle.fillcolor(self.paint_bucket.color)
