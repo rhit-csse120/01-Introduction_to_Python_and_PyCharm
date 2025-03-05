@@ -23,22 +23,22 @@ Academic Integrity: I got help on this module from:
 """  # TODO: If you got help from anyone on this module, list their names here.
 
 ###############################################################################
-# TODO: 1.
+# TODO: 2.
 #   Yes, that means for YOU to DO things per the following instructions:
 #  _
-#   On Line 16 above, replace   PUT_YOUR_NAME_HERE   with your OWN name.
-#   Also note Line 21, where you give credit to those (if any) who helped you
+#   On Line 17 above, replace   PUT_YOUR_NAME_HERE   with your OWN name.
+#   Also note Line 22, where you give credit to those (if any) who helped you
 #   in working on this module.`
 #  _
 #   BTW, the top block of text above forms a multiple-line string that is
 #   called a DOC-STRING.  It documents what this module does, in a way that
-#   exterior programs can make sense of. It has no other effect on this program.
+#   other programs can make sense of. It has no other effect on this program.
 ###############################################################################
 
 import rosegraphics as rg
 
 ###############################################################################
-# TODO: 2.
+# TODO: 3.
 #   Run this module.  A window will pop up and Turtle objects will move around.
 #   After the Turtles stop moving,
 #      ** click anywhere in the window to close the window **.
