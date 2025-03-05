@@ -76,7 +76,7 @@ print(answer * 100)
 # TODO: 3.
 #   Immediately below this _TODO_, write code that computes and prints:
 #      the square root of ((41 * 88) + (5 * the cosine of 2))
-#   (The answer should be about 3605.919)
+#   The answer should be about 60.05.
 #   Use as few or as many intermediate names as you feel appropriate.
 #   Run your code (fix errors as needed), then change the above _TODO_ to DONE.
 ###############################################################################
