@@ -24,7 +24,7 @@ Academic Integrity: I got help on this module from:
 #          then select   Python Interpreter  in the window to the right.
 #     3. Click the little  +  sign to bring up a window to add Packages.
 #     4. Type
-#            Black
+#            black
 #          in the place to specify the package to add,
 #          then press the   Install Package   button.
 #          (Leave the "Install to User's ..." checkbox UN-checked
