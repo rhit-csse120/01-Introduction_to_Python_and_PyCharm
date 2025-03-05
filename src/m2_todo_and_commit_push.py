@@ -35,8 +35,9 @@ print("Hello, World")
 
 ###############################################################################
 # TODO: 2.
-#   Notice the small horizontal BLUE bars on the scrollbar-like thing
+#   Notice the small horizontal BLUE =bars on the scrollbar-like thing
 #   on the right.  Each blue bar indicates a thing "to do" in this module.
+#   (They may be yellowish-green instead of blue, if you use Dark mode.)
 #  _
 #     a. You can use the blue bars to go from one _TODO_ to the next
 #        by clicking on the blue bars.  ** Try that now. **
