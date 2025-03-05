@@ -19,7 +19,7 @@ Academic Integrity: I got help on this module from:
 #   Write code that accomplishes the following (and ONLY the following),
 #   in the order listed:  (IMPORTANT: Write the code for item 1 below
 #   and TEST that it works, then write AND TEST items 2-5, then write
-#   and TEST the entire program.)
+#   and TEST the rest of the entire program.)
 #  _
 #    - Constructs a SimpleTurtle with a  "blue"  Pen.
 #    - Makes the SimpleTurtle:
@@ -31,8 +31,9 @@ Academic Integrity: I got help on this module from:
 #             HINT: Use the "dot trick" to figure out how to do this.
 #        4. Put its pen DOWN
 #             (so that the next movements will return to leaving a "trail").
-#        5. Have color "green" and thickness 10.
-#        6. Go 150 pixels straight DOWN.
+#        5. Have speed 8.
+#        6. Have color "green" and thickness 10.
+#        7. Go 150 pixels straight DOWN.
 #  _
 #   Don't forget to:
 #     - Import rosegraphics
@@ -41,7 +42,7 @@ Academic Integrity: I got help on this module from:
 #         at the BEGINNING of your code.
 #     - Ask your  TurtleWindow to   close_on_mouse_click
 #          as the LAST line of your code.  (Again, parentheses needed!)
-#   See the beginning and end of   m5e_loopy_turtles   for an example.
+#   See the beginning and end of   m7e_loopy_turtles   for an example.
 #  _
 #   As always, test by running the module.
 ###############################################################################

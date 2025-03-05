@@ -60,7 +60,8 @@ import rosegraphics as rg
 # TODO: 1.  This is an EXAMPLE module (m1e_..., note the e).
 #  For ALL example modules, throughout the course:
 #    a. RUN the example.
-#    b. READ the code (and accompanying comments), ASKING QUESTIONS
+#    b. READ the green doc-string at the beginning of this file.
+#    c. READ the code (and accompanying comments), ASKING QUESTIONS
 #         about anything that is not clear to you.  In particular, be sure that
 #         you understand why the code produces the output/drawing that it does.
 #  _
@@ -68,7 +69,7 @@ import rosegraphics as rg
 #  but we nonetheless expect you to DO them, per the above.
 #  _
 #  If you have not already done so, READ the doc-string that forms the
-#  first 46 lines of this module, noting the examples and discussion therein.
+#  first 49 lines of this module, noting the examples and discussion therein.
 #  _
 #  After you RUN this example, READ its code, and ASK QUESTIONS about anything
 #  that is not clear to you, change the above _TODO_ to DONE.

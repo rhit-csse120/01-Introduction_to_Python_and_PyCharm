@@ -52,7 +52,7 @@ print("Hello, World")
 #   finished all the exercises in a module -- there will be no blue bars
 #   remaining on the scrollbar-like thing to the right.
 #  _
-#   You have now completed _TODO_ #2, so change its _TODO_ on line 32 to DONE.
+#   You have now completed _TODO_ #2, so change its _TODO_ on line 37 to DONE.
 #   Do likewise for all forthcoming TODOs in this course as you encounter them.
 ###############################################################################
 
@@ -120,5 +120,5 @@ print("Hello, World")
 #     and COMMIT-and-PUSH again.
 #  _
 #   You can COMMIT-and-PUSH as often as you like.
-#   DO IT FREQUENTLY - AT LEAST once per module.
+#   *** DO IT FREQUENTLY - AT LEAST once per module (i.e., file). ***
 ###############################################################################

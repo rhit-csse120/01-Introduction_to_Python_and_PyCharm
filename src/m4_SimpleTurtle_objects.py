@@ -201,7 +201,7 @@ natasha.go_to(rg.Point(-100, 200))
 #                  using   Done   or something like that for the message.
 #  _
 #   You can COMMIT-and-PUSH as often as you like.
-#   DO IT FREQUENTLY; AT LEAST once per module.
+#   *** DO IT FREQUENTLY - AT LEAST once per module (i.e., file). ***
 ###############################################################################
 
 # -----------------------------------------------------------------------------

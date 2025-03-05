@@ -1,4 +1,4 @@
-answer = 2 ** 5
+answer = 2**5
 print(answer * 100)
 
 ###############################################################################
@@ -59,6 +59,7 @@ print(answer * 100)
 #               and notice what pops up.  It will show you that
 #               the name of the cosine function is NOT "cosine"; rather,
 #               it is "cos".  Hence, you will type   math.cos(2.75)
+#               or (better) press the TAB key to auto-complete the code.
 #        b. Stores that computed value using a name of your own choosing.
 #        c. Prints the square root of that computed value.
 #               You will have to guess what function in the  math  module
@@ -73,7 +74,8 @@ print(answer * 100)
 ###############################################################################
 # TODO: 3.
 #   Immediately below this _TODO_, write code that computes and prints:
-#      the square root of ((41 * 88) + (4 * the cosine of 2))
+#      the square root of ((41 * 88) + (5 * the cosine of 2))
+#   (The answer should be about 3605.919)
 #   Use as few or as many intermediate names as you feel appropriate.
 #   Run your code (fix errors as needed), then change the above _TODO_ to DONE.
 ###############################################################################
@@ -118,5 +120,5 @@ print(answer * 100)
 #                  using   Done   or something like that for the message.
 #  _
 #   You can COMMIT-and-PUSH as often as you like.
-#   DO IT FREQUENTLY; AT LEAST once per module.
+#   *** DO IT FREQUENTLY - AT LEAST once per module (i.e., file). ***
 ###############################################################################
