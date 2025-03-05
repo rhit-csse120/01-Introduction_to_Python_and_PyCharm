@@ -55,7 +55,6 @@ Academic Integrity: I got help on this module from:
 
 import rosegraphics as rg
 
-
 ###############################################################################
 # TODO: 1.  This is an EXAMPLE module (m1e_..., note the e).
 #  For ALL example modules, throughout the course:
