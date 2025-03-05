@@ -68,7 +68,7 @@ print(answer * 100)
 #               and pause after typing the "s" to see what pops up.
 #               Do you see what function to use for square roots?
 #               (If not, ask for help.)
-#      The answer should be about 8.772.
+#      The answer should be about 8.722.
 #   Run your code (fix errors as needed), then change the above _TODO_ to DONE.
 ###############################################################################
 
