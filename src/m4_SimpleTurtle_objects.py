@@ -67,8 +67,8 @@ import rosegraphics as rg
 
 # -----------------------------------------------------------------------------
 # The next few lines show how to:
-#   - CONSTRUCT (make and initialize) a   TurtleWindow   object for animation.
-# The definition of a  TurtleWindow is in
+#   - CONSTRUCT (make and initialize) a  TurtleWindow  object for animation.
+# The definition of a  TurtleWindow  is in
 # the   rg   (shorthand for rosegraphics) module that is IMPORTED above.
 # -----------------------------------------------------------------------------
 window = rg.TurtleWindow()
@@ -94,7 +94,8 @@ boris.forward(200)
 # The next few lines show how to:
 #   - Construct a second SimpleTurtle
 #       (using an optional argument that sets the shape displayed),
-#     set its  pen  and  speed  INSTANCE VARIABLES, and ask it to do things.
+#   - Set its  pen  and  speed  INSTANCE VARIABLES, and
+#   - Ask it to do things.
 # _
 # TIP:  to see what other strings you can use for the shape, hover over
 # the word   SimpleTurtle  in the first line of code below.  Doing so will
@@ -128,7 +129,8 @@ natasha.go_to(rg.Point(-100, 200))
 #           not meant to be used directly.  More on them later in the course.
 #      -- Also notice that when you type the first few letters of a name
 #           (here, natasha), PyCharm offers to "autofill" the rest of the name
-#           for you -- just press the ENTER (RETURN) key to do so.  Try it out!
+#           for you -- just press the TAB or ENTER (RETURN) key to do so.
+#           Try it out!
 #  _
 #      ** Be quick to ask for help as needed, as the so-called **
 #      ** "dot-trick" is more easily shown than explained. **
@@ -161,8 +163,9 @@ natasha.go_to(rg.Point(-100, 200))
 #   STYLE RULES (obey these rules!!!):
 #     1. Your names should always begin with a LOWER_CASE letter.
 #          So   mary   is OK   but   Mary   is NOT OK.
-#     2. Choose short-but-meaningful names.  Separate "words" in the name by
-#          underscores, like this:   my_turtle1
+#     2. Choose short-but-meaningful names.
+#        Separate "words" in the name by underscores, like this:
+#           my_red_turtle1
 #  _
 #   Then add more code that:
 #     -- Constructs a  Pen  object,
@@ -181,7 +184,7 @@ natasha.go_to(rg.Point(-100, 200))
 # TODO: 7.
 #   If you got help on this module, put the name of the person(s) who helped
 #   you in the Academic Integrity section near the top of this module
-#   (on line 21).
+#   (on line 22).
 ###############################################################################
 
 ###############################################################################
