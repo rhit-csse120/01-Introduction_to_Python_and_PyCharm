@@ -1628,6 +1628,9 @@ class Color:
     def __repr__(self):
         return "#{:02x}{:02x}{:02x}".format(self.red, self.green, self.blue)
 
+    def to_tuple(self):
+        return (self.red / 255, self.green / 255, self.blue / 255)
+
 
 # begin STUB code for testing
 
@@ -2018,6 +2021,7 @@ class SimpleTurtle:
         pass
 
     def _update_real_turtle(self):
+        print(self.pen.color)
         self._turtle.pencolor(self.pen.color)
         self._turtle.pensize(self.pen.thickness)
         self._turtle.fillcolor(self.paint_bucket.color)
