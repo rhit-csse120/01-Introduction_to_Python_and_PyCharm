@@ -18,7 +18,7 @@ Academic Integrity: I got help on this module from:
 # TODO: 2.
 #   Write code that accomplishes the following (and ONLY the following),
 #   in the order listed:  (IMPORTANT: Write the code for item 1 below
-#   and TEST that it works, then write AND TEST items 2-5, then write
+#   and TEST that it works, then write AND TEST items 2-3, then write
 #   and TEST the rest of the entire program.)
 #  _
 #    - Constructs a SimpleTurtle with a  "blue"  Pen.
@@ -27,7 +27,7 @@ Academic Integrity: I got help on this module from:
 #        2. Lift its pen UP
 #             (so that the next movements do NOT leave a "trail").
 #             HINT: Use the "dot trick" to figure out how to do this.
-#        3. Go to the Point at (100, -40).
+#        3. Go to the rg.Point at (100, -40).
 #             HINT: Use the "dot trick" to figure out how to do this.
 #        4. Put its pen DOWN
 #             (so that the next movements will return to leaving a "trail").
@@ -36,7 +36,7 @@ Academic Integrity: I got help on this module from:
 #        7. Go 150 pixels straight DOWN.
 #  _
 #   Don't forget to:
-#     - Import rosegraphics
+#     - import rosegraphics as rg
 #     - Construct a TurtleWindow
 #            [remember the required PARENTHESES for constructing an object!]
 #         at the BEGINNING of your code.
