@@ -30,7 +30,7 @@ Academic Integrity: I got help on this module from:
 
 
 def calculate_sum(n):
-    """ Return 0 + 1 + 2 + ... + n"""
+    """Return 0 + 1 + 2 + ... + n"""
     total = 0
 
 
