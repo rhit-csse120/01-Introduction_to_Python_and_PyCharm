@@ -30,13 +30,13 @@ Academic Integrity: I got help on this module from:
 #          (Leave the "Install to User's ..." checkbox UN-checked
 #          unless permission-problems force you to check it.)
 #     5. Also install the following if you have not already installed them:
-#            pygame
+#            pygame-ce
 #            pillow
 #            paho-mqtt
 #     5. Close the window when the installs are done.
 #     6. Click on the   Tools   item in the leftmost window,
-#          then select   Black   in the window to the right.
-#     7. Check the   "On save"   box.
+#          then select   Actions on Save   in the window to the right.
+#     7. Check the   "Run Black"   box.
 #  _
 #  Read the code below briefly, and make some obvious formatting error,
 #  e.g. adding extra blank lines.  Then test that Black works by
